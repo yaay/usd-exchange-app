@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/usd-exchange-app/static/css/main.d20202a4.css",
-    "main.js": "/usd-exchange-app/static/js/main.e1c89135.js",
+    "main.js": "/usd-exchange-app/static/js/main.1af7584d.js",
     "index.html": "/usd-exchange-app/index.html",
     "main.d20202a4.css.map": "/usd-exchange-app/static/css/main.d20202a4.css.map",
-    "main.e1c89135.js.map": "/usd-exchange-app/static/js/main.e1c89135.js.map"
+    "main.1af7584d.js.map": "/usd-exchange-app/static/js/main.1af7584d.js.map"
   },
   "entrypoints": [
     "static/css/main.d20202a4.css",
-    "static/js/main.e1c89135.js"
+    "static/js/main.1af7584d.js"
   ]
 }
